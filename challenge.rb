@@ -28,4 +28,3 @@ assign rooms(array).each do |id|
   
 end
   
-  
